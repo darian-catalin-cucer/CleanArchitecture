@@ -31,10 +31,8 @@ languages:    [Kotlin]
 solutions:    [Mobile]
 
 # May be omitted if unpublished
-github:       bachhoan88/CleanArchitecture
 
 # Values: BEGINNER | INTERMEDIATE | ADVANCED | EXPERT
-level:        ADVANCED
 
 # Default: apache2. May be omitted for most samples.
 # Alternatives: apache2-android (for AOSP)

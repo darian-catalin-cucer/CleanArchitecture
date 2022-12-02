@@ -1,7 +1,5 @@
 Android Kotlin Clean Architecture & Components Example
 ===========================================================
-[![CircleCI](https://circleci.com/gh/bachhoan88/CleanArchitecture/tree/androidx.svg?style=shield)](https://circleci.com/gh/bachhoan88/CleanArchitecture/tree/androidx)
-[![codecov.io](https://codecov.io/github/bachhoan88/CleanArchitecture/branch/androidx/graph/badge.svg)](https://codecov.io/github/bachhoan88/CleanArchitecture)
 
 This is a sample app & basic code that uses Clean Architecture & Components, that is part of a blog post 
 I have written about how to architect android application using the Uncle Bob's clean architecture approach.
@@ -118,9 +116,6 @@ Upcoming features
 - Build layer for library `aar`
 - Make design support for all application: `styles`, `fonts`, `theme`
 
-
-- Interested in seeing a particular feature of the Architecture or Base Code implemented in this
-app? Please open a new [issue](https://github.com/bachhoan88/CleanArchitecture/issues).
 
 License
 --------
